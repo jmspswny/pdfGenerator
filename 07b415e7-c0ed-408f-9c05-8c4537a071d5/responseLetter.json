@@ -1,0 +1,19 @@
+{
+    "responseLetter": {
+        "letterFolio": "000000076588",
+        "reportNumber": "4523152",
+        "region": "MEXICO, DISTRITO FEDERAL",
+        "date": "A 20 DE ABRIL DE 2021", 
+        "company":"TELEVISA CORPORACION, S.A. DE C.V.",
+        "make":"Apple",
+        "model":"MACBOOK PRO RETINA 13 INCH",
+        "serialNumber":"C02Q876FFVH7",
+        "inventoryNumber":"IS18801",
+        "assigneeName":"JORGE ANTONIO TABOADA PALOMAR",
+        "assigneeNumber":"3403018",
+        "assigneeDepartment":"COCINA FACIL NETWORK",
+        "assigneeCostCenter":"7092814",
+        "peripheralsAndAccessories":"Adaptador USB-C a HDMI/VGA/Ethernet/USB 3.0",
+        "installedSoftware":"Microsoft Teams 1.3.0034"       
+    }
+}
