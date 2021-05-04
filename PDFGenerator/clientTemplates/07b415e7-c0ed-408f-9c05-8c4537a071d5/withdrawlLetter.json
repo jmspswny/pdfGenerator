@@ -1,0 +1,25 @@
+{
+    "withdrawlLetter": {
+        "letterFolio": "000000076588",
+        "reportNumber": "4523152",
+        "region": "MEXICO, DISTRITO FEDERAL",
+        "date": "A 20 DE ABRIL DE 2021", 
+        "location": "DESARROLLO VISTA HERMOSA SA DE CV",
+        "decriptionOfEquipment":"MACBOOK",
+        "make":"Apple",
+        "model":"MACBOOK PRO RETINA 13 INCH",
+        "serialNumber":"C02Q876FFVH7",
+        "inventoryNumber":"IS18801",
+        "processorType":"CORE I5",
+        "processorSpeed":"2.9 GHZ",
+        "drive":"500 GB",
+        "memory":"8 GB",
+        "monitorSerialNumber":"",
+        "monitorMake":"",
+        "monitorModel":"",
+        "assigneeName":"JORGE ANTONIO TABOADA PALOMAR",
+        "assigneeNumber":"3403018",
+        "assigneeDepartment":"COCINA FACIL NETWORK",
+        "assigneeCostCenter":"7092814"       
+    }
+}
