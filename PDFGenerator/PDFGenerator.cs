@@ -19,7 +19,7 @@ namespace PDFGenerator
 
         [FunctionName("PDFGenerator")]
         public static async Task<HttpResponseMessage> Run(
-            [HttpTrigger(AuthorizationLevel.Function, "post")] HttpRequest req,
+            [HttpTrigger(AuthorizationLevel.Anonymous, "post")] HttpRequest req,
             ILogger log, ExecutionContext executionContext)
         {
             log.LogInformation("Processing PDF Request");
